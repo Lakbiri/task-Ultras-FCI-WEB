@@ -4,8 +4,7 @@ body {
     background: #e9ebee;
     color: #1d2129;
     font-family: Helvetica, Arial, sans-serif;
-    width: 100%
-    
+    width: 100%;    
     
 }
 #container {
@@ -308,7 +307,6 @@ body {
     float: left;
     background: #e9ebee;;
     width: 84.75%;
-    position: fixed
     
     
     
@@ -316,7 +314,6 @@ body {
 }
 .content {
     background: #e9ebee;
-    position: relative;
     margin: 0 auto;
     width: 1012px;
     
@@ -1163,10 +1160,10 @@ body {
     border-radius: 2px;
     box-sizing: content-box;
     font-size: 12px;
-    padding: 4px 60px;
+    padding: 4px 63px;
     font-weight: bold;
     color: #fff;
-    margin-top: 5px
+    margin-top: 5px;
         
 }
 .center .center-right1 .info button:hover{
@@ -1320,7 +1317,7 @@ body {
 .content-right .right .contacts ul li {
     list-style-type: none;
     display: block;
-    width: 180px;
+    width: 183px;
     padding: 2px 0;
     
 }
