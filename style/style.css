@@ -23,7 +23,11 @@ body {
    width: 100%;
     background: #4267b2;
     font-size: 50px;
-    border-bottom: 1px solid #29487d
+    border-bottom: 1px solid #29487d;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
    
 
 }
@@ -562,6 +566,7 @@ body {
     font-size: 14px
    
 }
+
 .center .cover .linked a:hover{
 
     text-decoration: underline;       
@@ -1276,7 +1281,8 @@ body {
     border-left: 1px solid #ccc;
     height: 600px;
     position: fixed;
-    right: 0px
+    right: 0px;
+    margin-top: 44px;
     
     
 }
@@ -1290,7 +1296,7 @@ body {
 
 }
 .content-right .right .text{
-    margin-top: 17px;
+    margin-top: 8px;
     margin-bottom: 8px;
     margin-left: 2px;
         
@@ -1414,7 +1420,7 @@ body {
     background: #E9EBEE;
     padding: 3px 0px;
     margin-left: -6px;
-    width: 203px
+    
         
         
        
@@ -1478,6 +1484,3 @@ body {
     float: right;
        
 }
-
-
-
