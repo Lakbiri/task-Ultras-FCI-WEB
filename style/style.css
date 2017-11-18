@@ -9,6 +9,7 @@ body {
 }
 #container {
     background: #e9ebee;
+    min-width: 1234px;
 
 
     
@@ -311,6 +312,8 @@ body {
     float: left;
     background: #e9ebee;;
     width: 84.75%;
+    margin-top: 44px;
+
     
     
     
@@ -1484,3 +1487,6 @@ body {
     float: right;
        
 }
+
+
+
